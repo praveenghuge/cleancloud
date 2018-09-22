@@ -1,2 +1,3 @@
+flask
 azure
 azure-mgmt-compute~=2.0.0
