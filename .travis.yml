@@ -1,0 +1,6 @@
+language: python
+python:
+ - "stable"
+before_script: pip install -r requirements.txt
+script: python app.py
+
