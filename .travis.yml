@@ -1,6 +1,6 @@
 language: python
 python:
- - "stable"
+ - "2.7"
 before_script: pip install -r requirements.txt
 script: python app.py
 
